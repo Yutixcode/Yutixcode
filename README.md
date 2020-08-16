@@ -1,4 +1,4 @@
-# Welcome bruh, [Yutixcode](http://yutixcode.xyz) here 🤘
+# Welcome bruh, [Yutixcode](http://yutixcode.xyz) here 🙌
 
 ![Yutixcode](https://komarev.com/ghpvc/?username=Yutixcode&label=Views&color=blue&style=plastic)
 
