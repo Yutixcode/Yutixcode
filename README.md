@@ -17,7 +17,5 @@ Hai, saya adalah orang yang ceria, hiperaktif, kikuk, dan sangat ambisius dalam 
 ----------
 
 <div align="center">
-
-### Aku noob dan aku bangga 😈
-
+    <h3>Aku noob dan aku bangga 😈</h3>
 </div>
