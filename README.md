@@ -12,3 +12,5 @@ Hai, saya adalah orang yang ceria, hiperaktif, kikuk, dan sangat ambisius dalam 
 - [<img alt="Yutixcode's Facebook" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> **Add friend**](https://www.facebook.com/njnk.xnxx)<br />
 - [<img alt="Yutixcode's Youtube" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> **Subscribe**](https://www.youtube.com/NjankSoekamti)<br /> 
 <!-- Mau nyontek yaaaa? Awokawok dasar anjing ya kamu -->
+
+### Aku noob dan aku bangga 😈
