@@ -9,3 +9,10 @@ Hai, saya adalah orang yang ceria, hiperaktif, kikuk, dan sangat ambisius dalam 
 - [<img alt="Yutixcode's Facebook" align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> Add friend](https://www.facebook.com/njnk.xnxx) 
 - [<img alt="Yutixcode's Youtube" align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Subscribe](https://www.youtube.com/NjankSoekamti)
 <!-- Mau nyontek yaaaa? Awokawok dasar anjing ya kamu -->
+
+<a href="https://github.com/Yutixcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yutixcode&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Yutixcode">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yutixcode&show_icons=true&theme=light&line_height=27" alt="Yutixcode's github stats"/>
+</a>
