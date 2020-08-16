@@ -1,8 +1,8 @@
-# Welcome bruh, [Yutixcode](http://yutixcode.xyz) here 
+# Welcome bruh, [Yutixcode](http://yutixcode.xyz) here 🖕
 
 ![Yutixcode](https://komarev.com/ghpvc/?username=Yutixcode&label=Views&color=blue&style=plastic)
 
-Hai, saya adalah orang yang <font color="red">ceria</font>, hiperaktif, kikuk, dan sangat ambisius dalam meraih cita-cita untuk menjadi Hokage.
+Hai, saya adalah orang yang ceria, hiperaktif, kikuk, dan sangat ambisius dalam meraih cita-cita untuk menjadi Hokage.
 
 ### Get in Touch
 - [<img alt="Yutixcode's Instagram" align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> Follow](https://instagram.com/n74nk420)
