@@ -18,3 +18,7 @@ Hai, saya adalah orang yang ceria, hiperaktif, kikuk, dan sangat ambisius dalam 
 <div align="center">
     <h4>Aku noob dan aku bangga 😈</h4>
 </div>
+
+----------
+
+<center>🎁 donate: <a>[](https://saweria.co/lordyutix)</a></center>
