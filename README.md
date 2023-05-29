@@ -21,4 +21,4 @@ Hai, saya adalah orang yang ceria, hiperaktif, kikuk, dan sangat ambisius dalam 
 
 ----------
 
-<center>🎁 donate: <a>https://saweria.co/lordyutix</a></center>
+<div align="center">🎁 donate: [saweria.co/lordyutix](https://saweria.co/lordyutix)</div>
