@@ -33,12 +33,12 @@ class Gaskeun:
 			if "DB_PASSWORD" in raw:
 				print(f" {reset}{green}[ FOUND ] {reset}{white}{site}")
 				open("founds.txt","a").write(f"{site}\n")
-			else:
-				print(f" {reset}{red}NOT FOUND {reset}{reset}{dim}{site}")
+			#else:
+				#print(f" {reset}{red}NOT FOUND {reset}{reset}{dim}{site}")
 				
 		except req.exceptions.Timeout:
 			if self.dei == 5:
-				print(f" {reset}{red}-TIMEOUT- {reset}{dim}{site}")
+				pass #print(f" {reset}{red}-TIMEOUT- {reset}{dim}{site}")
 			else:
 				#print(f" {reset}{yellow}[ RETRY ] {reset}{dim}{site}")
 				self.dei += 1
@@ -46,7 +46,7 @@ class Gaskeun:
 			
 		except Exception as er:
 			if self.dei == 5:
-				print(f" {reset}{red}NOT FOUND {reset}{dim}{white}{site}")
+				pass #print(f" {reset}{red}NOT FOUND {reset}{dim}{white}{site}")
 			else:
 				#print(f" {reset}{yellow}[ RETRY ] {reset}{dim}{site}")
 				self.dei += 1
